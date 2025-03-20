@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://bg1eoljuho8dr"]
+
+[ext_resource type="Script" uid="uid://dm3xood7u053" path="res://components/managers/data_manager/data_manager.gd" id="1_hfxco"]
+
+[node name="DataManager" type="Node"]
+script = ExtResource("1_hfxco")
